@@ -1,2 +1,4 @@
 # ada-2021-project-allg
 ada-2021-project-allg created by GitHub Classroom
+
+Our idea is track the evolution of the place of women’s voices in the medias following major events like the Me too movement which started in 2017. Using the Wikidata IDs of the speakers in the database, we would find the speaker’s gender and see if the number of quotations from women has increased. We can then see if women are underrepresented in the medias and if they are only quoted on certain subjects. We can also check the occupation of the women that the media highlight to find which social backgrounds are best represented. Also the ethnicity and age ?
