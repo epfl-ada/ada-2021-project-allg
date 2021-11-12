@@ -12,15 +12,15 @@ The goal of this project is to track the evolution of the presence of women’s 
 
 Research questions : Are women more quoted in the media since the Me too movement in 2017 ? Are they only quoted on certain subjects (eg. Feminism) ? Women of which social backgrounds, ethnicity and age are best represented in the media ?
 
-Additional database? : 
-The suggested .parquet file containing speakers attributes as Wikidata entities. 
+Additional database : 
+As additional database, the suggested .parquet file containing speakers attributes as Wikidata entities will be used. 
 Since all additional information on the speakers that we need for our project is in the provided database, there is no need for further databases. 
 We are aware that there is a general imbalance between men and women in many fields but as we are only looking at relative changes in our project, there is actually no need for this. 
-If there is time, an additional database showing the imbalance between men and woman in another field would be added to compare. 
+If there is time, an additional database showing the imbalance between men and woman in another field would be added and analyzed to compare. 
  
 Methods : The Wikidata IDs of the speakers in the provided database will be used to find the speaker’s gender and see if the number of quotations from women has increased between 2015 and 2020. This will be done by merging the gender information to our filtered speaker database. These IDs will also be used to find the ethnicity and the age of the quoted women.
 To answer the research question if women are only quoted on certain subjects, machine learning will be used to analyze the content of the quotes. 
---> more details on methods
+--> much more details on methods
 
 Proposed timeline :
 - Week 8 : end Milestone 2 : kick-off and checking if all good
