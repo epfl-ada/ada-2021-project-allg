@@ -38,6 +38,6 @@ To analyse the subjects of the quotes, a machine learning algorithm will be used
 - Age and ethnicity analysis: Amaia
 
 ### Questions for TAs :
-There are no particular questions arising at that point. That you though for your time and future feedbacks.
+There are no particular questions arising at that point. Thank you though for your time and future feedbacks.
 
 Sources : (1)https://www.weforum.org/agenda/2020/03/women-representation-in-media/
