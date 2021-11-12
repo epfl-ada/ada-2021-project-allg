@@ -18,21 +18,25 @@ Since all additional information on the speakers that we need for our project is
 We are aware that there is a general imbalance between men and women in many fields but as we are only looking at relative changes in our project, there is actually no need for this. 
 If there is time, an additional database showing the imbalance between men and woman in another field would be added and analyzed to compare. 
  
-Methods : The Wikidata IDs of the speakers in the provided database will be used to find the speaker’s gender and see if the number of quotations from women has increased between 2015 and 2020. This will be done by merging the gender information to our filtered speaker database. These IDs will also be used to find the ethnicity and the age of the quoted women.
-To answer the research question if women are only quoted on certain subjects, machine learning will be used to analyze the content of the quotes. 
---> much more details on methods
+Methods : 
+The Wikidata IDs of the speakers in the provided database will be used to find the speaker’s gender and see if the number of quotations from women has increased between 2015 and 2020, especially since the Me too movement in 2017. This will be done by merging the gender information to our filtered quotbank dataframe. Then hypothesis testing approach for binary variables will be applied and trend analysis of the time series will be conducted. 
+The Wikidata IDs of the speakers will also be used to find and merge the ethnicity and the age of the quoted women to the dataframe. 
+To analyse the subjects of the quotes, a machine learning algorithm will be used. The machine learning algorithm that will be used still has to be decided. 
+
 
 Proposed timeline :
 - Week 8 : end Milestone 2 : kick-off and checking if all good
-- Week 9 : ML algorithm for content analysis
+- Week 9 : trend analysis of the time series, add speaker information of age and ethnicity to the dataframe
 - Week 10 : incorporating feedback from Milestone 2
-- Week 11 : add information of age and ethnicity to the database
-- Week 12 : put results together and write the story 
+- Week 11 : ML algorithm for quote analysis
+- Week 12 : put the results & code together, write the story 
 - Week 13 : Milestone 3 : wrap-up and debug of last problems
 
 Internal milestones : (who does what)
-Quotes subject by Machine learning algorithm: XX
-Women's age and ethnicity: XX
+Hypothesis testing approach for binary variables: 
+Machine learning algorithm for the analysis of the quote: X
+Trend analysis of the time series: X
+Age and ethnicity analysis: 
 
 Questions for TAs :
 
