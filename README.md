@@ -32,10 +32,10 @@ To analyse the subjects of the quotes, a machine learning algorithm will be used
 - Week 13 : Milestone 3 : wrap-up and debug of last problems
 
 ### Internal milestones : (who does what)
-Hypothesis testing approach for binary variables: Gabriel
-Machine learning algorithm for the analysis of the quote: Lucie
-Trend analysis of the time series: Lilian
-Age and ethnicity analysis: Amaia
+- Hypothesis testing approach for binary variables: Gabriel
+- Machine learning algorithm for the analysis of the quote: Lucie
+- Trend analysis of the time series: Lilian
+- Age and ethnicity analysis: Amaia
 
 ### Questions for TAs :
 
