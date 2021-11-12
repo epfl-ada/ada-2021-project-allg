@@ -1,5 +1,5 @@
 # The evolution of the presence of women’s voices in the media
-ada-2021-project-allg created by GitHub Classroom
+ada-2021-project-allg
 
 
 ### Abstract  (150 words):
