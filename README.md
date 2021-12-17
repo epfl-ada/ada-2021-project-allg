@@ -1,5 +1,4 @@
 # The evolution of the presence of women’s voices in the media
-ada-2021-project-allg
 
 The datastory can be found on the website: https://luciecastella2.github.io/ADA-Data-Story/
 
@@ -41,6 +40,9 @@ To analyse the subjects of the quotes, a machine learning algorithm will be used
 ### Notes
 The assistant's suggestion to use the Interrupted Time Series Analysis was noted and looked at. However, the time series had no obvious intervention at the time of the Me Too movement and therefore the use of the Interrupted Time Series Analysis was not applied.
 
+Sources : 
+(1)https://www.weforum.org/agenda/2020/03/women-representation-in-media/
+(2)https://zenodo.org/record/4277311#.YbyxXy_37PD
 
-Sources : (1)https://www.weforum.org/agenda/2020/03/women-representation-in-media/
-          (2)https://zenodo.org/record/4277311#.YbyxXy_37PD
+
+ada-2021-project-allg
